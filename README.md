@@ -2,7 +2,7 @@
 
 Aplicación Android integral para medir distancias y ángulos con múltiples herramientas: realidad aumentada (AR), sonar (ultrasonido), regla de pantalla, medidor rodante, nivel y transportador.
 
-> **Nota:** El código fuente completo es privado. Este repositorio muestra la arquitectura, las características y capturas de pantalla de la aplicación.
+> **Nota:** El código fuente completo es privado. Este repositorio muestra la arquitectura, las características, capturas de pantalla y fragmentos de código representativos.
 
 ## 📱 Características Principales
 
@@ -73,7 +73,12 @@ Aplicación Android integral para medir distancias y ángulos con múltiples her
 
 ## 💻 Fragmentos de Código Destacados
 
-*(Próximamente: fragmentos de `MedidorRodante.kt`, `DetectorTarjeta.kt` y `PruebaManager.kt`)*
+Puedes explorar la calidad del código y la arquitectura del proyecto en los siguientes archivos:
+
+### Android (Kotlin)
+*   [Medidor Rodante - Motor con Giroscopio](code-snippets/android_kotlin/medidor_rodante.md)
+*   [Detección de Tarjeta con OpenCV](code-snippets/android_kotlin/detector_tarjeta.md)
+*   [Sistema de Prueba Gratuita y Licencias](code-snippets/android_kotlin/prueba_manager.md)
 
 ## 👨‍💻 Mi Rol en el Proyecto
 Desarrollador Android. Responsable de la arquitectura, implementación, integración de ARCore y OpenCV, sistema de licencias y UI/UX.
